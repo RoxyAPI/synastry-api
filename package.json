@@ -1,0 +1,15 @@
+{
+  "name": "synastry-api",
+  "version": "0.1.0",
+  "private": false,
+  "type": "module",
+  "description": "Synastry API for relationship astrology. Inter aspect analysis between two charts plus compatibility score. RoxyAPI working samples.",
+  "license": "MIT",
+  "dependencies": {
+    "@roxyapi/sdk": "^1.2.21"
+  },
+  "scripts": {
+    "ts": "bun example.ts",
+    "js": "node example.js"
+  }
+}

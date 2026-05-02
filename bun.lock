@@ -1,0 +1,15 @@
+{
+  "lockfileVersion": 1,
+  "configVersion": 1,
+  "workspaces": {
+    "": {
+      "name": "synastry-api",
+      "dependencies": {
+        "@roxyapi/sdk": "^1.2.21",
+      },
+    },
+  },
+  "packages": {
+    "@roxyapi/sdk": ["@roxyapi/sdk@1.2.21", "", {}, "sha512-CgcGCkSJ36J30lQWQkLun9QECoUPhFvQG4YStS6+DbLb19C+XSkWbl19xarW+W+mTLFsYONaYSqPjXx2Fl8IYQ=="],
+  }
+}
