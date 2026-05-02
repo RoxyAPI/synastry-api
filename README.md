@@ -315,7 +315,9 @@ This repo ships an [AGENTS.md](AGENTS.md) execution playbook. Cursor, Claude Cod
 
 ## License
 
-MIT. See [LICENSE](LICENSE).
+MIT for this sample repo. See [LICENSE](LICENSE).
+
+**Catalog licensing:** Personal and Commercial Use. No AGPL or GPL entanglement. Full posture at [roxyapi.com/policy/license](https://roxyapi.com/policy/license).
 
 ## Contact
 
