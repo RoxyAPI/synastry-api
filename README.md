@@ -1,4 +1,4 @@
-![Synastry API](banner.png)
+[![Synastry API](banner.png)](https://roxyapi.com/products/astrology-api)
 
 # Synastry API
 
