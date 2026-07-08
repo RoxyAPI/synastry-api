@@ -6,7 +6,7 @@
   "description": "Synastry API for relationship astrology. Inter aspect analysis between two charts plus compatibility score. RoxyAPI working samples.",
   "license": "MIT",
   "dependencies": {
-    "@roxyapi/sdk": "^1.2.21"
+    "@roxyapi/sdk": "^1.2.45"
   },
   "scripts": {
     "ts": "bun example.ts",
