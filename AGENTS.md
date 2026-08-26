@@ -6,7 +6,7 @@ This repo teaches AI coding agents (Cursor, Claude Code, Aider, Codex, Windsurf,
 - Method: `POST`
 - URL: `https://roxyapi.com/api/v2/astrology/synastry`
 - Auth: `X-API-Key` header
-- Domain: `astrology` (one of 12+ in the RoxyAPI catalog)
+- Domain: `astrology` (one of 14+ in the RoxyAPI catalog)
 - Operation ID: `calculateSynastry` matches the SDK method name in camelCase
 - MCP tool: `post_astrology_synastry` on `https://roxyapi.com/mcp/astrology`
 
