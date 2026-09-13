@@ -5,11 +5,11 @@
     "": {
       "name": "synastry-api",
       "dependencies": {
-        "@roxyapi/sdk": "^1.2.21",
+        "@roxyapi/sdk": "^1.2.80",
       },
     },
   },
   "packages": {
-    "@roxyapi/sdk": ["@roxyapi/sdk@1.2.21", "", {}, "sha512-CgcGCkSJ36J30lQWQkLun9QECoUPhFvQG4YStS6+DbLb19C+XSkWbl19xarW+W+mTLFsYONaYSqPjXx2Fl8IYQ=="],
+    "@roxyapi/sdk": ["@roxyapi/sdk@1.2.80", "", {}, "sha512-qVoE8bGLC5vDgBT7fvSMLm+G/o7a9t4ey9FDzpRPhc+5fr+r/MQXrbLDJkqTJD8JD5ZuqrQhG9MmRk9o5ZayPQ=="],
   }
 }
